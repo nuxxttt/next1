@@ -1,0 +1,45 @@
+{
+    "recipes" : [
+        {
+            "id": "1",
+            "title": "Veggie Carbonara",
+            "image": "https://assets.bonappetit.com/photos/5ea5f4c79820ff0008fe7225/1:1/w_2560%2Cc_limit/HLY-carbonara-16x9.jpg",
+            "time": 20,
+            "desc": "A delicious vegetarian twist on the classic carbonara with creamy sauce and fresh vegetables.",
+            "vegan": false
+        },
+        {
+            "id": "2",
+            "title": "Vegan Tacos",
+            "image": "https://assets.bonappetit.com/photos/5ea5f4c79820ff0008fe7225/1:1/w_2560%2Cc_limit/HLY-carbonara-16x9.jpg",
+            "time": 15,
+            "desc": "Tasty and healthy vegan tacos filled with black beans, corn, and a variety of fresh toppings.",
+            "vegan": true
+        },
+        {
+            "id": "3",
+            "title": "Quinoa Salad",
+            "image": "https://assets.bonappetit.com/photos/5ea5f4c79820ff0008fe7225/1:1/w_2560%2Cc_limit/HLY-carbonara-16x9.jpg",
+            "time": 10,
+            "desc": "A refreshing and nutritious quinoa salad with cherry tomatoes, cucumbers, and a lemon vinaigrette.",
+            "vegan": true
+        },
+        {
+            "id": "4",
+            "title": "Chicken Alfredo",
+            "image": "https://assets.bonappetit.com/photos/5ea5f4c79820ff0008fe7225/1:1/w_2560%2Cc_limit/HLY-carbonara-16x9.jpg",
+            "time": 25,
+            "desc": "Creamy and rich chicken alfredo pasta that is perfect for a hearty dinner.",
+            "vegan": false
+        },
+        {
+            "id": "5",
+            "title": "Stuffed Bell Peppers",
+            "image": "https://assets.bonappetit.com/photos/5ea5f4c79820ff0008fe7225/1:1/w_2560%2Cc_limit/HLY-carbonara-16x9.jpg",
+            "time": 30,
+            "desc": "Bell peppers stuffed with a flavorful mixture of rice, beans, and spices, topped with melted cheese.",
+            "vegan": false
+        }
+    ]
+    
+}
